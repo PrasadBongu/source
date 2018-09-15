@@ -27,7 +27,7 @@ a = 4
 a += 2  # 6  -> a = a + 2
 logger.info(a)
 a -= 2  # a -= 2  ->  a = a -2 -> 4
-logger.info(a)
+# logger.info(a)
 a *=2  # a = a * 2
 #
 # # ================= Relational Operators ================== #
